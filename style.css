@@ -1,0 +1,68 @@
+header{
+	/*   credit to UI Grdient generator */
+  background: #eb5757; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #eb5757, #000000); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #eb5757, #000000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.iconStyle{
+	border: solid 10px;
+	border-color: black;
+}
+
+.aboutMe{
+	text-align: center;
+	color: gray;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 50px;
+	font-weight: bold;
+	padding: 120px 240px 200px 150px;
+}
+.summary{
+	padding: 10px 40px 40px 40px;
+	text-align: center;
+	font-weight:bold;
+	color: gray;
+	font-size: 25px;
+}
+.contact{
+	text-align: center;
+	padding: 50px;
+	font-size: 45px;
+	font-weight: bold;
+	color: gray;
+}
+.email{
+	text-align: center;
+	font-size: 30px;
+	font-weight: italic;
+	padding: 35px;
+	color: gray;
+}
+.vl {
+    border-right: 4px solid gray;
+    height: 1100px;
+}
+.heading{
+	padding: 50px 150px 0px 220px;
+	text-align: center;
+	font-size: 35px;
+	color: gray;
+}
+.list{
+	list-style-type: disc;
+	font-size: 25px;
+	font-weight: bold;
+	color: gray;
+	text-align: left;
+	padding-left: 200px;
+	padding-top: 20px;
+
+}
+.linkCV{
+	text-align: center;
+	padding-left: 300px;
+	padding-top: 80px;
+	column-width: brown;
+	font-size: 30px;
+	font-weight: bold;
+}
